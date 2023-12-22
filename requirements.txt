@@ -1,0 +1,9 @@
+pandas
+numpy
+dask[dataframe]
+jupyter
+notebook
+matplotlib
+pyipmeta
+wget
+dask[distributed]
